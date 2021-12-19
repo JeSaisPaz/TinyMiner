@@ -11,7 +11,7 @@ def bitcoin_value():
 
 class BTCminer:
     def __init__(self):
-        self.money = 150 # Modify this to cheat
+        self.money = 150
         self.crypto = 0
         self.hashrate = 0
 
