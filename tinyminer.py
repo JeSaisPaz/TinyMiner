@@ -204,7 +204,6 @@ save - Save the game
 load_game - Load previous game
 exit - Quit the game and save
                    """)
-            main()
         elif mainaction == "buy":
             btcminer.shop()
         elif mainaction == "sell":
